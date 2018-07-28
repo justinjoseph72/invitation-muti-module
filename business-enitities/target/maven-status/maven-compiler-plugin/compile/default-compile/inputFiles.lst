@@ -1,0 +1,10 @@
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/logic/CreateVerfiedPersonService.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/domain/Connection.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/domain/attributes/person/Verifiable.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/domain/attributes/connection/RelationshipStatus.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/logic/impl/CreateUnverifiedPersonServiceImpl.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/logic/model/CreatePersonRequest.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/domain/attributes/connection/RelationshipType.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/domain/attributes/person/Previewable.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/domain/Person.java
+/home/justinubu/IdeaProjects/demo-invitation/business-enitities/src/main/java/com/justin/app/invitation/logic/CreateUnVerifiedPersonService.java
